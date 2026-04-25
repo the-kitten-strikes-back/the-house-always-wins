@@ -1,0 +1,426 @@
+EXODUS Simulation Report
+Turns elapsed: 10
+Galaxies: 2
+Colonised worlds: 19
+Factions: 29
+Population: 156,647,325
+Average tech tier: 2.97
+Alliances: 0
+Conflicts: 5
+Resolved wars: 0
+Total wars recorded: 5
+War casualties: 192,000
+Ecologically strained worlds: 6
+
+All events:
+Turn 0: Generated 2 galaxies from procedural seed 7.
+Turn 0: Initial population: 189,207,928.
+Turn 1: Iona Prime 5 is under ecological strain; load=5.21.
+Turn 1: Selene Prime 2 is under ecological strain; load=1.23.
+Turn 1: Iona Prime 3 is under ecological strain; load=3.42.
+Turn 1: Bastion Prime 1 is under ecological strain; load=1.85.
+Turn 1: Thalos Prime 3 is under ecological strain; load=1.26.
+Turn 1: Quaene League changed by +71,231 population on Kharon Prime 1; prosperity=0.61, pressure=0.17.
+Turn 1: Saari Compact changed by +84,736 population on Kharon Prime 1; prosperity=0.60, pressure=0.17.
+Turn 1: Elyyx Concord changed by +163,999 population on Selene Prime 2; prosperity=0.80, pressure=0.13.
+Turn 1: Zenali Union changed by +75,089 population on Selene Prime 2; prosperity=0.80, pressure=0.13.
+Turn 1: Zenene League changed by +67,525 population on Selene Prime 2; prosperity=0.78, pressure=0.13.
+Turn 1: Kaith Concord changed by +71,860 population on Iona Prime 1; prosperity=0.65, pressure=0.13.
+Turn 1: Elyyx Compact changed by +105,887 population on Iona Prime 1; prosperity=0.67, pressure=0.13.
+Turn 1: Kaari League changed by -87,488 population on Iona Prime 5; prosperity=0.41, pressure=4.31.
+Turn 1: Kaith Collective changed by -255,736 population on Iona Prime 5; prosperity=0.45, pressure=4.31.
+Turn 1: Kaene League changed by +39,981 population on Selene Prime 2; prosperity=0.53, pressure=0.33.
+Turn 1: Kaene Union changed by -167,234 population on Iona Prime 3; prosperity=0.46, pressure=2.52.
+Turn 1: Quayx Collective changed by +105,824 population on Bastion Prime 5; prosperity=0.71, pressure=0.00.
+Turn 1: Vorori Union changed by +74,737 population on Bastion Prime 5; prosperity=0.70, pressure=0.00.
+Turn 1: Kaari Dynasty changed by +62,335 population on Bastion Prime 1; prosperity=0.77, pressure=0.95.
+Turn 1: Saeth Collective changed by +67,322 population on Bastion Prime 1; prosperity=0.72, pressure=0.95.
+Turn 1: Quauun Dynasty changed by +46,929 population on Bastion Prime 1; prosperity=0.80, pressure=0.95.
+Turn 1: Elyali Dynasty changed by +18,782 population on Iona Prime 2; prosperity=0.65, pressure=0.21.
+Turn 1: Tyori Dynasty changed by +75,265 population on Iona Prime 2; prosperity=0.67, pressure=0.21.
+Turn 1: Zenali Hegemony changed by +209,821 population on Selene Prime 3; prosperity=0.76, pressure=0.00.
+Turn 1: Zeneth Concord changed by +117,854 population on Selene Prime 3; prosperity=0.75, pressure=0.00.
+Turn 1: Myreth Concord changed by +254,456 population on Vesta Prime 2; prosperity=0.80, pressure=0.00.
+Turn 1: Myrene Collective changed by +42,750 population on Thalos Prime 3; prosperity=0.52, pressure=0.36.
+Turn 1: Myreth Concord founded Myreth Concord Colony on Eden Prime 4.
+Turn 1: Kaari League collapsed on Iona Prime 5.
+Turn 1: Kaith Collective collapsed on Iona Prime 5.
+Turn 2: Selene Prime 2 is under ecological strain; load=1.24.
+Turn 2: Iona Prime 3 is under ecological strain; load=3.35.
+Turn 2: Bastion Prime 1 is under ecological strain; load=1.86.
+Turn 2: Thalos Prime 3 is under ecological strain; load=1.27.
+Turn 2: Quaene League changed by +72,799 population on Kharon Prime 1; prosperity=0.63, pressure=0.19.
+Turn 2: Saari Compact changed by +86,603 population on Kharon Prime 1; prosperity=0.61, pressure=0.19.
+Turn 2: Elyyx Concord changed by +169,448 population on Selene Prime 2; prosperity=0.82, pressure=0.14.
+Turn 2: Zenali Union changed by +77,584 population on Selene Prime 2; prosperity=0.82, pressure=0.14.
+Turn 2: Zenene League changed by +69,777 population on Selene Prime 2; prosperity=0.80, pressure=0.14.
+Turn 2: Kaith Concord changed by +74,457 population on Iona Prime 1; prosperity=0.67, pressure=0.14.
+Turn 2: Elyyx Compact changed by +109,642 population on Iona Prime 1; prosperity=0.70, pressure=0.14.
+Turn 2: Kaene League changed by +40,495 population on Selene Prime 2; prosperity=0.54, pressure=0.34.
+Turn 2: Kaene Union changed by -175,130 population on Iona Prime 3; prosperity=0.35, pressure=2.45.
+Turn 2: Myreth Concord Colony changed by +28,533 population on Eden Prime 4; prosperity=0.72, pressure=0.00.
+Turn 2: Quayx Collective changed by +111,420 population on Bastion Prime 5; prosperity=0.74, pressure=0.00.
+Turn 2: Vorori Union changed by +78,727 population on Bastion Prime 5; prosperity=0.72, pressure=0.00.
+Turn 2: Kaari Dynasty changed by +56,375 population on Bastion Prime 1; prosperity=0.75, pressure=0.96.
+Turn 2: Saeth Collective changed by +59,524 population on Bastion Prime 1; prosperity=0.71, pressure=0.96.
+Turn 2: Quauun Dynasty changed by +43,019 population on Bastion Prime 1; prosperity=0.78, pressure=0.96.
+Turn 2: Elyali Dynasty changed by +19,306 population on Iona Prime 2; prosperity=0.67, pressure=0.22.
+Turn 2: Tyori Dynasty changed by +77,344 population on Iona Prime 2; prosperity=0.69, pressure=0.22.
+Turn 2: Zenali Hegemony changed by +220,703 population on Selene Prime 3; prosperity=0.79, pressure=0.00.
+Turn 2: Zeneth Concord changed by +123,978 population on Selene Prime 3; prosperity=0.78, pressure=0.00.
+Turn 2: Myreth Concord changed by +240,453 population on Vesta Prime 2; prosperity=0.82, pressure=0.00.
+Turn 2: Myrene Collective changed by +42,802 population on Thalos Prime 3; prosperity=0.52, pressure=0.37.
+Turn 2: Zenali Union founded Zenali Union Colony on Kharon Prime 4.
+Turn 2: Quayx Collective founded Quayx Collective Colony on Vesta Prime 4.
+Turn 2: Zeneth Concord founded Zeneth Concord Colony on Vesta Prime 1.
+Turn 2: Myreth Concord founded Myreth Concord Colony 2 on Selene Prime 3.
+Turn 2: Kaene Union collapsed on Iona Prime 3.
+Turn 3: Selene Prime 2 is under ecological strain; load=1.25.
+Turn 3: Bastion Prime 1 is under ecological strain; load=1.86.
+Turn 3: Thalos Prime 3 is under ecological strain; load=1.28.
+Turn 3: Quaene League changed by +74,382 population on Kharon Prime 1; prosperity=0.64, pressure=0.20.
+Turn 3: Saari Compact changed by +88,489 population on Kharon Prime 1; prosperity=0.63, pressure=0.20.
+Turn 3: Elyyx Concord changed by +176,501 population on Selene Prime 2; prosperity=0.83, pressure=0.13.
+Turn 3: Zenali Union changed by +72,421 population on Selene Prime 2; prosperity=0.83, pressure=0.13.
+Turn 3: Zenene League changed by +73,338 population on Selene Prime 2; prosperity=0.82, pressure=0.13.
+Turn 3: Kaith Concord changed by +77,091 population on Iona Prime 1; prosperity=0.69, pressure=0.15.
+Turn 3: Elyyx Compact changed by +113,456 population on Iona Prime 1; prosperity=0.72, pressure=0.15.
+Turn 3: Myreth Concord Colony 2 changed by +23,047 population on Selene Prime 3; prosperity=0.72, pressure=0.00.
+Turn 3: Zenali Union Colony changed by +8,431 population on Kharon Prime 4; prosperity=0.74, pressure=0.00.
+Turn 3: Zeneth Concord Colony changed by +11,523 population on Vesta Prime 1; prosperity=0.71, pressure=0.00.
+Turn 3: Kaene League changed by +40,728 population on Selene Prime 2; prosperity=0.55, pressure=0.35.
+Turn 3: Myreth Concord Colony changed by +29,877 population on Eden Prime 4; prosperity=0.75, pressure=0.00.
+Turn 3: Quayx Collective changed by +105,672 population on Bastion Prime 5; prosperity=0.77, pressure=0.00.
+Turn 3: Vorori Union changed by +82,851 population on Bastion Prime 5; prosperity=0.75, pressure=0.00.
+Turn 3: Kaari Dynasty changed by +50,459 population on Bastion Prime 1; prosperity=0.73, pressure=0.96.
+Turn 3: Saeth Collective changed by +51,799 population on Bastion Prime 1; prosperity=0.69, pressure=0.96.
+Turn 3: Quauun Dynasty changed by +39,132 population on Bastion Prime 1; prosperity=0.76, pressure=0.96.
+Turn 3: Elyali Dynasty changed by +19,836 population on Iona Prime 2; prosperity=0.68, pressure=0.24.
+Turn 3: Tyori Dynasty changed by +79,447 population on Iona Prime 2; prosperity=0.71, pressure=0.24.
+Turn 3: Zenali Hegemony changed by +231,991 population on Selene Prime 3; prosperity=0.82, pressure=0.00.
+Turn 3: Zeneth Concord changed by +116,837 population on Selene Prime 3; prosperity=0.81, pressure=0.00.
+Turn 3: Myreth Concord changed by +222,586 population on Vesta Prime 2; prosperity=0.84, pressure=0.00.
+Turn 3: Myrene Collective changed by +42,852 population on Thalos Prime 3; prosperity=0.52, pressure=0.38.
+Turn 3: Quayx Collective Colony changed by +11,751 population on Vesta Prime 4; prosperity=0.70, pressure=0.00.
+Turn 3: Elyyx Concord founded Elyyx Concord Colony on Kharon Prime 2.
+Turn 3: Zenali Union founded Zenali Union Colony 2 on Iona Prime 3.
+Turn 3: Quayx Collective founded Quayx Collective Colony 2 on Selene Prime 1.
+Turn 3: Zeneth Concord founded Zeneth Concord Colony 2 on Iona Prime 5.
+Turn 3: Myreth Concord founded Myreth Concord Colony 3 on Iona Prime 5.
+Turn 4: Selene Prime 2 is under ecological strain; load=1.25.
+Turn 4: Bastion Prime 1 is under ecological strain; load=1.87.
+Turn 4: Thalos Prime 3 is under ecological strain; load=1.28.
+Turn 4: Quaene League changed by +75,536 population on Kharon Prime 1; prosperity=0.65, pressure=0.21.
+Turn 4: Saari Compact changed by +89,849 population on Kharon Prime 1; prosperity=0.64, pressure=0.21.
+Turn 4: Elyyx Concord changed by +171,208 population on Selene Prime 2; prosperity=0.85, pressure=0.07.
+Turn 4: Zenali Union changed by +70,263 population on Selene Prime 2; prosperity=0.84, pressure=0.07.
+Turn 4: Zenene League changed by +79,092 population on Selene Prime 2; prosperity=0.83, pressure=0.07.
+Turn 4: Kaith Concord changed by +79,765 population on Iona Prime 1; prosperity=0.71, pressure=0.16.
+Turn 4: Elyyx Compact changed by +117,331 population on Iona Prime 1; prosperity=0.74, pressure=0.16.
+Turn 4: Elyyx Concord Colony changed by +19,722 population on Kharon Prime 2; prosperity=0.78, pressure=0.00.
+Turn 4: Myreth Concord Colony 2 changed by +24,189 population on Selene Prime 3; prosperity=0.74, pressure=0.00.
+Turn 4: Zenali Union Colony changed by +8,923 population on Kharon Prime 4; prosperity=0.77, pressure=0.00.
+Turn 4: Myreth Concord Colony 3 changed by +18,994 population on Iona Prime 5; prosperity=0.72, pressure=0.13.
+Turn 4: Zeneth Concord Colony changed by +12,100 population on Vesta Prime 1; prosperity=0.73, pressure=0.00.
+Turn 4: Kaene League changed by +40,960 population on Selene Prime 2; prosperity=0.55, pressure=0.35.
+Turn 4: Zenali Union Colony 2 changed by +7,408 population on Iona Prime 3; prosperity=0.73, pressure=0.00.
+Turn 4: Myreth Concord Colony changed by +31,267 population on Eden Prime 4; prosperity=0.77, pressure=0.00.
+Turn 4: Quayx Collective changed by +98,436 population on Bastion Prime 5; prosperity=0.79, pressure=0.00.
+Turn 4: Vorori Union changed by +85,990 population on Bastion Prime 5; prosperity=0.77, pressure=0.00.
+Turn 4: Kaari Dynasty changed by +44,952 population on Bastion Prime 1; prosperity=0.71, pressure=0.97.
+Turn 4: Saeth Collective changed by +44,158 population on Bastion Prime 1; prosperity=0.67, pressure=0.97.
+Turn 4: Quauun Dynasty changed by +35,272 population on Bastion Prime 1; prosperity=0.74, pressure=0.97.
+Turn 4: Elyali Dynasty changed by +20,249 population on Iona Prime 2; prosperity=0.70, pressure=0.25.
+Turn 4: Tyori Dynasty changed by +81,099 population on Iona Prime 2; prosperity=0.72, pressure=0.25.
+Turn 4: Zenali Hegemony changed by +240,035 population on Selene Prime 3; prosperity=0.83, pressure=0.00.
+Turn 4: Zeneth Concord changed by +108,382 population on Selene Prime 3; prosperity=0.82, pressure=0.00.
+Turn 4: Quayx Collective Colony 2 changed by +10,771 population on Selene Prime 1; prosperity=0.69, pressure=0.00.
+Turn 4: Myreth Concord changed by +206,053 population on Vesta Prime 2; prosperity=0.85, pressure=0.00.
+Turn 4: Myrene Collective changed by +43,113 population on Thalos Prime 3; prosperity=0.53, pressure=0.38.
+Turn 4: Quayx Collective Colony changed by +12,401 population on Vesta Prime 4; prosperity=0.72, pressure=0.00.
+Turn 4: Zeneth Concord Colony 2 changed by +10,769 population on Iona Prime 5; prosperity=0.72, pressure=0.00.
+Turn 5: Selene Prime 2 is under ecological strain; load=1.26.
+Turn 5: Bastion Prime 1 is under ecological strain; load=1.88.
+Turn 5: Iona Prime 2 is under ecological strain; load=1.16.
+Turn 5: Thalos Prime 3 is under ecological strain; load=1.29.
+Turn 5: Quaene League changed by +76,875 population on Kharon Prime 1; prosperity=0.66, pressure=0.22.
+Turn 5: Saari Compact changed by +91,436 population on Kharon Prime 1; prosperity=0.65, pressure=0.22.
+Turn 5: Elyyx Concord changed by +174,408 population on Selene Prime 2; prosperity=0.86, pressure=0.08.
+Turn 5: Zenali Union changed by +71,572 population on Selene Prime 2; prosperity=0.85, pressure=0.08.
+Turn 5: Zenene League changed by +80,557 population on Selene Prime 2; prosperity=0.85, pressure=0.08.
+Turn 5: Kaith Concord changed by +82,033 population on Iona Prime 1; prosperity=0.73, pressure=0.17.
+Turn 5: Elyyx Compact changed by +120,643 population on Iona Prime 1; prosperity=0.76, pressure=0.17.
+Turn 5: Elyyx Concord Colony changed by +20,448 population on Kharon Prime 2; prosperity=0.80, pressure=0.00.
+Turn 5: Myreth Concord Colony 2 changed by +25,366 population on Selene Prime 3; prosperity=0.77, pressure=0.00.
+Turn 5: Zenali Union Colony changed by +9,345 population on Kharon Prime 4; prosperity=0.80, pressure=0.00.
+Turn 5: Myreth Concord Colony 3 changed by +19,306 population on Iona Prime 5; prosperity=0.73, pressure=0.14.
+Turn 5: Zeneth Concord Colony changed by +12,719 population on Vesta Prime 1; prosperity=0.76, pressure=0.00.
+Turn 5: Kaene League changed by +41,190 population on Selene Prime 2; prosperity=0.55, pressure=0.36.
+Turn 5: Zenali Union Colony 2 changed by +7,680 population on Iona Prime 3; prosperity=0.74, pressure=0.00.
+Turn 5: Myreth Concord Colony changed by +32,430 population on Eden Prime 4; prosperity=0.79, pressure=0.00.
+Turn 5: Quayx Collective changed by +101,444 population on Bastion Prime 5; prosperity=0.80, pressure=0.00.
+Turn 5: Vorori Union changed by +88,467 population on Bastion Prime 5; prosperity=0.78, pressure=0.00.
+Turn 5: Kaari Dynasty changed by +39,505 population on Bastion Prime 1; prosperity=0.70, pressure=0.98.
+Turn 5: Saeth Collective changed by +36,608 population on Bastion Prime 1; prosperity=0.65, pressure=0.98.
+Turn 5: Quauun Dynasty changed by +31,443 population on Bastion Prime 1; prosperity=0.73, pressure=0.98.
+Turn 5: Elyali Dynasty changed by +20,714 population on Iona Prime 2; prosperity=0.71, pressure=0.26.
+Turn 5: Tyori Dynasty changed by +82,766 population on Iona Prime 2; prosperity=0.73, pressure=0.26.
+Turn 5: Zenali Hegemony changed by +247,418 population on Selene Prime 3; prosperity=0.84, pressure=0.00.
+Turn 5: Zeneth Concord changed by +111,712 population on Selene Prime 3; prosperity=0.83, pressure=0.00.
+Turn 5: Quayx Collective Colony 2 changed by +11,113 population on Selene Prime 1; prosperity=0.70, pressure=0.00.
+Turn 5: Myreth Concord changed by +211,951 population on Vesta Prime 2; prosperity=0.86, pressure=0.00.
+Turn 5: Myrene Collective changed by +42,837 population on Thalos Prime 3; prosperity=0.53, pressure=0.39.
+Turn 5: Quayx Collective Colony changed by +13,071 population on Vesta Prime 4; prosperity=0.75, pressure=0.00.
+Turn 5: Zeneth Concord Colony 2 changed by +11,166 population on Iona Prime 5; prosperity=0.73, pressure=0.00.
+Turn 5: Quaene League unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Saari Compact unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Elyyx Concord unlocked Tier-2 Computing Breakthrough and adopted Computing Doctrine 2.
+Turn 5: Zenali Union unlocked Tier-2 Biology Breakthrough and adopted Biology Doctrine 2.
+Turn 5: Zenene League unlocked Tier-2 Warfare Breakthrough and adopted Warfare Doctrine 2.
+Turn 5: Kaith Concord unlocked Tier-2 Warfare Breakthrough and adopted Warfare Doctrine 2.
+Turn 5: Elyyx Compact unlocked Tier-2 Biology Breakthrough and adopted Biology Doctrine 2.
+Turn 5: Myreth Concord Colony 2 unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Zenali Union Colony unlocked Tier-2 Biology Breakthrough and adopted Biology Doctrine 2.
+Turn 5: Zeneth Concord Colony unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Kaene League unlocked Tier-2 Propulsion Breakthrough and adopted Propulsion Doctrine 2.
+Turn 5: Myreth Concord Colony unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Quayx Collective unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Vorori Union unlocked Tier-2 Biology Breakthrough and adopted Biology Doctrine 2.
+Turn 5: Kaari Dynasty unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Saeth Collective unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Quauun Dynasty unlocked Tier-2 Computing Breakthrough and adopted Computing Doctrine 2.
+Turn 5: Elyali Dynasty unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Tyori Dynasty unlocked Tier-2 Warfare Breakthrough and adopted Warfare Doctrine 2.
+Turn 5: Zenali Hegemony unlocked Tier-2 Computing Breakthrough and adopted Computing Doctrine 2.
+Turn 5: Zeneth Concord unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Myreth Concord unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 5: Myrene Collective unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Quayx Collective Colony unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 5: Zenali Hegemony Frontier emerged on Selene Prime 3.
+Turn 6: Selene Prime 2 is under ecological strain; load=1.27.
+Turn 6: Bastion Prime 1 is under ecological strain; load=1.88.
+Turn 6: Iona Prime 2 is under ecological strain; load=1.17.
+Turn 6: Thalos Prime 3 is under ecological strain; load=1.30.
+Turn 6: Quaene League changed by +79,134 population on Kharon Prime 1; prosperity=0.68, pressure=0.23.
+Turn 6: Saari Compact changed by +94,139 population on Kharon Prime 1; prosperity=0.67, pressure=0.23.
+Turn 6: Elyyx Concord changed by +177,640 population on Selene Prime 2; prosperity=0.87, pressure=0.10.
+Turn 6: Zenali Union changed by +72,661 population on Selene Prime 2; prosperity=0.86, pressure=0.10.
+Turn 6: Zenene League changed by +81,771 population on Selene Prime 2; prosperity=0.86, pressure=0.10.
+Turn 6: Kaith Concord changed by +85,039 population on Iona Prime 1; prosperity=0.75, pressure=0.19.
+Turn 6: Elyyx Compact changed by +123,732 population on Iona Prime 1; prosperity=0.77, pressure=0.19.
+Turn 6: Elyyx Concord Colony changed by +21,235 population on Kharon Prime 2; prosperity=0.82, pressure=0.00.
+Turn 6: Myreth Concord Colony 2 changed by +25,958 population on Selene Prime 3; prosperity=0.77, pressure=0.00.
+Turn 6: Zenali Union Colony changed by +9,610 population on Kharon Prime 4; prosperity=0.81, pressure=0.00.
+Turn 6: Myreth Concord Colony 3 changed by +19,621 population on Iona Prime 5; prosperity=0.74, pressure=0.15.
+Turn 6: Zeneth Concord Colony changed by +13,041 population on Vesta Prime 1; prosperity=0.77, pressure=0.00.
+Turn 6: Kaene League changed by +42,365 population on Selene Prime 2; prosperity=0.56, pressure=0.37.
+Turn 6: Zenali Union Colony 2 changed by +7,959 population on Iona Prime 3; prosperity=0.76, pressure=0.00.
+Turn 6: Myreth Concord Colony changed by +33,354 population on Eden Prime 4; prosperity=0.80, pressure=0.00.
+Turn 6: Quayx Collective changed by +104,020 population on Bastion Prime 5; prosperity=0.81, pressure=0.00.
+Turn 6: Vorori Union changed by +91,015 population on Bastion Prime 5; prosperity=0.79, pressure=0.00.
+Turn 6: Kaari Dynasty changed by +35,533 population on Bastion Prime 1; prosperity=0.68, pressure=0.98.
+Turn 6: Saeth Collective changed by +30,968 population on Bastion Prime 1; prosperity=0.64, pressure=0.98.
+Turn 6: Quauun Dynasty changed by +28,589 population on Bastion Prime 1; prosperity=0.71, pressure=0.98.
+Turn 6: Elyali Dynasty changed by +21,434 population on Iona Prime 2; prosperity=0.73, pressure=0.27.
+Turn 6: Tyori Dynasty changed by +85,415 population on Iona Prime 2; prosperity=0.75, pressure=0.27.
+Turn 6: Zenali Hegemony changed by +208,858 population on Selene Prime 3; prosperity=0.86, pressure=0.00.
+Turn 6: Zeneth Concord changed by +115,183 population on Selene Prime 3; prosperity=0.85, pressure=0.00.
+Turn 6: Zenali Hegemony Frontier changed by +43,880 population on Selene Prime 3; prosperity=0.82, pressure=0.00.
+Turn 6: Quayx Collective Colony 2 changed by +11,463 population on Selene Prime 1; prosperity=0.71, pressure=0.00.
+Turn 6: Myreth Concord changed by +218,026 population on Vesta Prime 2; prosperity=0.87, pressure=0.00.
+Turn 6: Myrene Collective changed by +43,633 population on Thalos Prime 3; prosperity=0.53, pressure=0.40.
+Turn 6: Quayx Collective Colony changed by +13,532 population on Vesta Prime 4; prosperity=0.77, pressure=0.00.
+Turn 6: Zeneth Concord Colony 2 changed by +11,574 population on Iona Prime 5; prosperity=0.75, pressure=0.00.
+Turn 6: Elyyx Concord Colony unlocked Tier-2 Computing Breakthrough and adopted Computing Doctrine 2.
+Turn 6: Myreth Concord Colony 3 unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 6: Zenali Union Colony 2 unlocked Tier-2 Biology Breakthrough and adopted Biology Doctrine 2.
+Turn 6: Quayx Collective Colony 2 unlocked Tier-2 Energy Breakthrough and adopted Energy Doctrine 2.
+Turn 6: Zeneth Concord Colony 2 unlocked Tier-2 Materials Breakthrough and adopted Materials Doctrine 2.
+Turn 6: Zenali Hegemony Frontier 2 emerged on Selene Prime 3.
+Turn 7: Selene Prime 2 is under ecological strain; load=1.28.
+Turn 7: Bastion Prime 1 is under ecological strain; load=1.89.
+Turn 7: Iona Prime 2 is under ecological strain; load=1.19.
+Turn 7: Thalos Prime 3 is under ecological strain; load=1.30.
+Turn 7: Quaene League changed by +80,501 population on Kharon Prime 1; prosperity=0.69, pressure=0.24.
+Turn 7: Saari Compact changed by +95,756 population on Kharon Prime 1; prosperity=0.68, pressure=0.24.
+Turn 7: Elyyx Concord changed by +180,907 population on Selene Prime 2; prosperity=0.88, pressure=0.11.
+Turn 7: Zenali Union changed by +73,515 population on Selene Prime 2; prosperity=0.87, pressure=0.11.
+Turn 7: Zenene League changed by +82,717 population on Selene Prime 2; prosperity=0.86, pressure=0.11.
+Turn 7: Kaith Concord changed by +86,733 population on Iona Prime 1; prosperity=0.77, pressure=0.20.
+Turn 7: Elyyx Compact changed by +124,935 population on Iona Prime 1; prosperity=0.78, pressure=0.20.
+Turn 7: Elyyx Concord Colony changed by +22,142 population on Kharon Prime 2; prosperity=0.84, pressure=0.00.
+Turn 7: Myreth Concord Colony 2 changed by +26,565 population on Selene Prime 3; prosperity=0.78, pressure=0.00.
+Turn 7: Zenali Union Colony changed by +9,847 population on Kharon Prime 4; prosperity=0.82, pressure=0.00.
+Turn 7: Myreth Concord Colony 3 changed by +20,209 population on Iona Prime 5; prosperity=0.76, pressure=0.17.
+Turn 7: Zeneth Concord Colony changed by +13,371 population on Vesta Prime 1; prosperity=0.77, pressure=0.00.
+Turn 7: Kaene League changed by +42,588 population on Selene Prime 2; prosperity=0.57, pressure=0.38.
+Turn 7: Zenali Union Colony 2 changed by +8,286 population on Iona Prime 3; prosperity=0.78, pressure=0.00.
+Turn 7: Myreth Concord Colony changed by +34,305 population on Eden Prime 4; prosperity=0.81, pressure=0.00.
+Turn 7: Quayx Collective changed by +106,312 population on Bastion Prime 5; prosperity=0.81, pressure=0.00.
+Turn 7: Vorori Union changed by +93,796 population on Bastion Prime 5; prosperity=0.81, pressure=0.00.
+Turn 7: Kaari Dynasty changed by +29,820 population on Bastion Prime 1; prosperity=0.67, pressure=0.99.
+Turn 7: Saeth Collective changed by +23,100 population on Bastion Prime 1; prosperity=0.62, pressure=0.99.
+Turn 7: Quauun Dynasty changed by +23,849 population on Bastion Prime 1; prosperity=0.69, pressure=0.99.
+Turn 7: Elyali Dynasty changed by +21,911 population on Iona Prime 2; prosperity=0.75, pressure=0.29.
+Turn 7: Tyori Dynasty changed by +87,118 population on Iona Prime 2; prosperity=0.77, pressure=0.29.
+Turn 7: Zenali Hegemony changed by +175,813 population on Selene Prime 3; prosperity=0.87, pressure=0.00.
+Turn 7: Zeneth Concord changed by +118,802 population on Selene Prime 3; prosperity=0.86, pressure=0.00.
+Turn 7: Zenali Hegemony Frontier changed by +45,950 population on Selene Prime 3; prosperity=0.84, pressure=0.00.
+Turn 7: Zenali Hegemony Frontier 2 changed by +36,953 population on Selene Prime 3; prosperity=0.83, pressure=0.00.
+Turn 7: Quayx Collective Colony 2 changed by +11,941 population on Selene Prime 1; prosperity=0.73, pressure=0.00.
+Turn 7: Myreth Concord changed by +222,906 population on Vesta Prime 2; prosperity=0.87, pressure=0.00.
+Turn 7: Myrene Collective changed by +43,564 population on Thalos Prime 3; prosperity=0.54, pressure=0.40.
+Turn 7: Quayx Collective Colony changed by +13,890 population on Vesta Prime 4; prosperity=0.78, pressure=0.00.
+Turn 7: Zeneth Concord Colony 2 changed by +12,053 population on Iona Prime 5; prosperity=0.77, pressure=0.00.
+Turn 7: War erupted between Elyyx Concord Colony and Kaari Dynasty in the frontier corridor.
+Turn 7: Elyyx Concord Colony and Kaari Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.01.
+Turn 7: Saeth Collective collapsed on Bastion Prime 1.
+Turn 7: Quauun Dynasty collapsed on Bastion Prime 1.
+Turn 7: Zenali Hegemony Frontier 3 emerged on Selene Prime 3.
+Turn 8: Kharon Prime 1 is under ecological strain; load=1.16.
+Turn 8: Selene Prime 2 is under ecological strain; load=1.28.
+Turn 8: Iona Prime 2 is under ecological strain; load=1.20.
+Turn 8: Thalos Prime 3 is under ecological strain; load=1.31.
+Turn 8: Quaene League changed by +82,064 population on Kharon Prime 1; prosperity=0.70, pressure=0.26.
+Turn 8: Saari Compact changed by +97,609 population on Kharon Prime 1; prosperity=0.69, pressure=0.26.
+Turn 8: Elyyx Concord changed by +183,038 population on Selene Prime 2; prosperity=0.89, pressure=0.13.
+Turn 8: Zenali Union changed by +74,361 population on Selene Prime 2; prosperity=0.88, pressure=0.13.
+Turn 8: Zenene League changed by +83,654 population on Selene Prime 2; prosperity=0.87, pressure=0.13.
+Turn 8: Kaith Concord changed by +87,530 population on Iona Prime 1; prosperity=0.77, pressure=0.21.
+Turn 8: Elyyx Compact changed by +126,126 population on Iona Prime 1; prosperity=0.79, pressure=0.21.
+Turn 8: Elyyx Concord Colony changed by +22,574 population on Kharon Prime 2; prosperity=0.85, pressure=0.00.
+Turn 8: Myreth Concord Colony 2 changed by +27,187 population on Selene Prime 3; prosperity=0.79, pressure=0.00.
+Turn 8: Zenali Union Colony changed by +10,038 population on Kharon Prime 4; prosperity=0.82, pressure=0.00.
+Turn 8: Myreth Concord Colony 3 changed by +20,462 population on Iona Prime 5; prosperity=0.77, pressure=0.18.
+Turn 8: Zeneth Concord Colony changed by +13,710 population on Vesta Prime 1; prosperity=0.78, pressure=0.00.
+Turn 8: Kaene League changed by +42,810 population on Selene Prime 2; prosperity=0.57, pressure=0.38.
+Turn 8: Zenali Union Colony 2 changed by +8,465 population on Iona Prime 3; prosperity=0.79, pressure=0.00.
+Turn 8: Myreth Concord Colony changed by +35,284 population on Eden Prime 4; prosperity=0.82, pressure=0.00.
+Turn 8: Quayx Collective changed by +108,661 population on Bastion Prime 5; prosperity=0.82, pressure=0.00.
+Turn 8: Vorori Union changed by +96,023 population on Bastion Prime 5; prosperity=0.81, pressure=0.00.
+Turn 8: Kaari Dynasty changed by +175,164 population on Bastion Prime 1; prosperity=0.64, pressure=0.00.
+Turn 8: Elyali Dynasty changed by +22,393 population on Iona Prime 2; prosperity=0.76, pressure=0.30.
+Turn 8: Tyori Dynasty changed by +88,835 population on Iona Prime 2; prosperity=0.78, pressure=0.30.
+Turn 8: Zenali Hegemony changed by +147,784 population on Selene Prime 3; prosperity=0.87, pressure=0.00.
+Turn 8: Zeneth Concord changed by +121,623 population on Selene Prime 3; prosperity=0.87, pressure=0.00.
+Turn 8: Zenali Hegemony Frontier changed by +47,244 population on Selene Prime 3; prosperity=0.86, pressure=0.00.
+Turn 8: Zenali Hegemony Frontier 2 changed by +38,631 population on Selene Prime 3; prosperity=0.85, pressure=0.00.
+Turn 8: Zenali Hegemony Frontier 3 changed by +31,072 population on Selene Prime 3; prosperity=0.83, pressure=0.00.
+Turn 8: Quayx Collective Colony 2 changed by +12,338 population on Selene Prime 1; prosperity=0.75, pressure=0.00.
+Turn 8: Myreth Concord changed by +227,909 population on Vesta Prime 2; prosperity=0.88, pressure=0.00.
+Turn 8: Myrene Collective changed by +43,492 population on Thalos Prime 3; prosperity=0.54, pressure=0.41.
+Turn 8: Quayx Collective Colony changed by +14,152 population on Vesta Prime 4; prosperity=0.78, pressure=0.00.
+Turn 8: Zeneth Concord Colony 2 changed by +12,311 population on Iona Prime 5; prosperity=0.78, pressure=0.00.
+Turn 8: War erupted between Quaene League and Elyyx Concord in the frontier corridor.
+Turn 8: Elyyx Concord Colony and Kaari Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.02.
+Turn 8: Quaene League and Elyyx Concord fought in the frontier corridor; casualties=16,000, devastation=0.01.
+Turn 9: Kharon Prime 1 is under ecological strain; load=1.17.
+Turn 9: Selene Prime 2 is under ecological strain; load=1.29.
+Turn 9: Iona Prime 2 is under ecological strain; load=1.21.
+Turn 9: Thalos Prime 3 is under ecological strain; load=1.32.
+Turn 9: Quaene League changed by +83,595 population on Kharon Prime 1; prosperity=0.72, pressure=0.27.
+Turn 9: Saari Compact changed by +99,532 population on Kharon Prime 1; prosperity=0.70, pressure=0.27.
+Turn 9: Elyyx Concord changed by +185,079 population on Selene Prime 2; prosperity=0.89, pressure=0.14.
+Turn 9: Zenali Union changed by +75,222 population on Selene Prime 2; prosperity=0.88, pressure=0.14.
+Turn 9: Zenene League changed by +84,607 population on Selene Prime 2; prosperity=0.87, pressure=0.14.
+Turn 9: Kaith Concord changed by +87,947 population on Iona Prime 1; prosperity=0.77, pressure=0.23.
+Turn 9: Elyyx Compact changed by +127,308 population on Iona Prime 1; prosperity=0.79, pressure=0.23.
+Turn 9: Elyyx Concord Colony changed by +23,016 population on Kharon Prime 2; prosperity=0.86, pressure=0.00.
+Turn 9: Myreth Concord Colony 2 changed by +27,699 population on Selene Prime 3; prosperity=0.79, pressure=0.00.
+Turn 9: Zenali Union Colony changed by +10,232 population on Kharon Prime 4; prosperity=0.83, pressure=0.00.
+Turn 9: Myreth Concord Colony 3 changed by +20,716 population on Iona Prime 5; prosperity=0.77, pressure=0.19.
+Turn 9: Zeneth Concord Colony changed by +13,951 population on Vesta Prime 1; prosperity=0.79, pressure=0.00.
+Turn 9: Kaene League changed by +43,030 population on Selene Prime 2; prosperity=0.58, pressure=0.39.
+Turn 9: Zenali Union Colony 2 changed by +8,631 population on Iona Prime 3; prosperity=0.79, pressure=0.00.
+Turn 9: Myreth Concord Colony changed by +36,060 population on Eden Prime 4; prosperity=0.83, pressure=0.00.
+Turn 9: Quayx Collective changed by +111,068 population on Bastion Prime 5; prosperity=0.82, pressure=0.00.
+Turn 9: Vorori Union changed by +98,146 population on Bastion Prime 5; prosperity=0.82, pressure=0.00.
+Turn 9: Kaari Dynasty changed by +183,189 population on Bastion Prime 1; prosperity=0.66, pressure=0.00.
+Turn 9: Elyali Dynasty changed by +22,620 population on Iona Prime 2; prosperity=0.77, pressure=0.31.
+Turn 9: Tyori Dynasty changed by +89,564 population on Iona Prime 2; prosperity=0.78, pressure=0.31.
+Turn 9: Zenali Hegemony changed by +149,882 population on Selene Prime 3; prosperity=0.88, pressure=0.02.
+Turn 9: Zeneth Concord changed by +122,970 population on Selene Prime 3; prosperity=0.87, pressure=0.02.
+Turn 9: Zenali Hegemony Frontier changed by +48,040 population on Selene Prime 3; prosperity=0.87, pressure=0.02.
+Turn 9: Zenali Hegemony Frontier 2 changed by +39,406 population on Selene Prime 3; prosperity=0.87, pressure=0.02.
+Turn 9: Zenali Hegemony Frontier 3 changed by +32,222 population on Selene Prime 3; prosperity=0.86, pressure=0.02.
+Turn 9: Quayx Collective Colony 2 changed by +12,578 population on Selene Prime 1; prosperity=0.75, pressure=0.00.
+Turn 9: Myreth Concord changed by +233,038 population on Vesta Prime 2; prosperity=0.89, pressure=0.00.
+Turn 9: Myrene Collective changed by +43,418 population on Thalos Prime 3; prosperity=0.54, pressure=0.42.
+Turn 9: Quayx Collective Colony changed by +14,419 population on Vesta Prime 4; prosperity=0.79, pressure=0.00.
+Turn 9: Zeneth Concord Colony 2 changed by +12,575 population on Iona Prime 5; prosperity=0.78, pressure=0.00.
+Turn 9: Quaene League unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Saari Compact unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Elyyx Concord unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 9: Zenali Union unlocked Tier-3 Biology Breakthrough and adopted Biology Doctrine 3.
+Turn 9: Zenene League unlocked Tier-3 Warfare Breakthrough and adopted Warfare Doctrine 3.
+Turn 9: Kaith Concord unlocked Tier-3 Warfare Breakthrough and adopted Warfare Doctrine 3.
+Turn 9: Elyyx Compact unlocked Tier-3 Biology Breakthrough and adopted Biology Doctrine 3.
+Turn 9: Myreth Concord Colony 2 unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 9: Zenali Union Colony unlocked Tier-3 Biology Breakthrough and adopted Biology Doctrine 3.
+Turn 9: Zeneth Concord Colony unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 9: Kaene League unlocked Tier-3 Propulsion Breakthrough and adopted Propulsion Doctrine 3.
+Turn 9: Myreth Concord Colony unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 9: Quayx Collective unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Vorori Union unlocked Tier-3 Biology Breakthrough and adopted Biology Doctrine 3.
+Turn 9: Kaari Dynasty unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Elyali Dynasty unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Tyori Dynasty unlocked Tier-3 Warfare Breakthrough and adopted Warfare Doctrine 3.
+Turn 9: Zenali Hegemony unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 9: Zeneth Concord unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 9: Zenali Hegemony Frontier unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 9: Zenali Hegemony Frontier 2 unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 9: Zenali Hegemony Frontier 3 unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 9: Myreth Concord unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 9: Myrene Collective unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: Quayx Collective Colony unlocked Tier-3 Energy Breakthrough and adopted Energy Doctrine 3.
+Turn 9: War erupted between Saari Compact and Zeneth Concord Colony in the frontier corridor.
+Turn 9: War erupted between Zenali Union Colony and Tyori Dynasty in the frontier corridor.
+Turn 9: Elyyx Concord Colony and Kaari Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.03.
+Turn 9: Quaene League and Elyyx Concord fought in the frontier corridor; casualties=16,000, devastation=0.02.
+Turn 9: Saari Compact and Zeneth Concord Colony fought in the frontier corridor; casualties=16,000, devastation=0.01.
+Turn 9: Zenali Union Colony and Tyori Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.01.
+Turn 10: Kharon Prime 1 is under ecological strain; load=1.18.
+Turn 10: Selene Prime 2 is under ecological strain; load=1.30.
+Turn 10: Iona Prime 2 is under ecological strain; load=1.22.
+Turn 10: Thalos Prime 3 is under ecological strain; load=1.32.
+Turn 10: Quaene League changed by +85,929 population on Kharon Prime 1; prosperity=0.73, pressure=0.28.
+Turn 10: Saari Compact changed by +102,345 population on Kharon Prime 1; prosperity=0.72, pressure=0.28.
+Turn 10: Elyyx Concord changed by +186,783 population on Selene Prime 2; prosperity=0.90, pressure=0.16.
+Turn 10: Zenali Union changed by +75,943 population on Selene Prime 2; prosperity=0.89, pressure=0.16.
+Turn 10: Zenene League changed by +85,402 population on Selene Prime 2; prosperity=0.88, pressure=0.16.
+Turn 10: Kaith Concord changed by +87,968 population on Iona Prime 1; prosperity=0.78, pressure=0.24.
+Turn 10: Elyyx Compact changed by +127,954 population on Iona Prime 1; prosperity=0.80, pressure=0.24.
+Turn 10: Elyyx Concord Colony changed by +23,470 population on Kharon Prime 2; prosperity=0.86, pressure=0.00.
+Turn 10: Myreth Concord Colony 2 changed by +28,221 population on Selene Prime 3; prosperity=0.80, pressure=0.00.
+Turn 10: Zenali Union Colony changed by +10,315 population on Kharon Prime 4; prosperity=0.83, pressure=0.00.
+Turn 10: Myreth Concord Colony 3 changed by +20,802 population on Iona Prime 5; prosperity=0.78, pressure=0.20.
+Turn 10: Zeneth Concord Colony changed by +14,064 population on Vesta Prime 1; prosperity=0.79, pressure=0.00.
+Turn 10: Kaene League changed by +44,216 population on Selene Prime 2; prosperity=0.59, pressure=0.40.
+Turn 10: Zenali Union Colony 2 changed by +8,794 population on Iona Prime 3; prosperity=0.79, pressure=0.00.
+Turn 10: Myreth Concord Colony changed by +36,854 population on Eden Prime 4; prosperity=0.84, pressure=0.00.
+Turn 10: Quayx Collective changed by +113,534 population on Bastion Prime 5; prosperity=0.83, pressure=0.00.
+Turn 10: Vorori Union changed by +100,322 population on Bastion Prime 5; prosperity=0.83, pressure=0.00.
+Turn 10: Kaari Dynasty changed by +193,299 population on Bastion Prime 1; prosperity=0.69, pressure=0.00.
+Turn 10: Elyali Dynasty changed by +22,812 population on Iona Prime 2; prosperity=0.78, pressure=0.32.
+Turn 10: Tyori Dynasty changed by +90,062 population on Iona Prime 2; prosperity=0.79, pressure=0.32.
+Turn 10: Zenali Hegemony changed by +151,530 population on Selene Prime 3; prosperity=0.88, pressure=0.03.
+Turn 10: Zeneth Concord changed by +124,295 population on Selene Prime 3; prosperity=0.88, pressure=0.03.
+Turn 10: Zenali Hegemony Frontier changed by +48,695 population on Selene Prime 3; prosperity=0.87, pressure=0.03.
+Turn 10: Zenali Hegemony Frontier 2 changed by +39,943 population on Selene Prime 3; prosperity=0.87, pressure=0.03.
+Turn 10: Zenali Hegemony Frontier 3 changed by +32,764 population on Selene Prime 3; prosperity=0.87, pressure=0.03.
+Turn 10: Quayx Collective Colony 2 changed by +12,775 population on Selene Prime 1; prosperity=0.75, pressure=0.00.
+Turn 10: Myreth Concord changed by +238,298 population on Vesta Prime 2; prosperity=0.89, pressure=0.00.
+Turn 10: Myrene Collective changed by +44,659 population on Thalos Prime 3; prosperity=0.55, pressure=0.42.
+Turn 10: Quayx Collective Colony changed by +14,692 population on Vesta Prime 4; prosperity=0.79, pressure=0.00.
+Turn 10: Zeneth Concord Colony 2 changed by +12,846 population on Iona Prime 5; prosperity=0.79, pressure=0.00.
+Turn 10: Elyyx Concord Colony unlocked Tier-3 Computing Breakthrough and adopted Computing Doctrine 3.
+Turn 10: Myreth Concord Colony 3 unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 10: Zenali Union Colony 2 unlocked Tier-3 Biology Breakthrough and adopted Biology Doctrine 3.
+Turn 10: Zeneth Concord Colony 2 unlocked Tier-3 Materials Breakthrough and adopted Materials Doctrine 3.
+Turn 10: War erupted between Zenene League and Zeneth Concord Colony 2 in the frontier corridor.
+Turn 10: Elyyx Concord Colony and Kaari Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.04.
+Turn 10: Quaene League and Elyyx Concord fought in the frontier corridor; casualties=16,000, devastation=0.03.
+Turn 10: Saari Compact and Zeneth Concord Colony fought in the frontier corridor; casualties=16,000, devastation=0.02.
+Turn 10: Zenali Union Colony and Tyori Dynasty fought in the frontier corridor; casualties=16,000, devastation=0.02.
+Turn 10: Zenene League and Zeneth Concord Colony 2 fought in the frontier corridor; casualties=16,000, devastation=0.01.
+Turn 10: Myrene Collective collapsed on Thalos Prime 3.

@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: exodus
+Version: 0.1.0
+Summary: Civilisation simulation engine for galaxies, factions, wars, and technology evolution.
+Author: Sidharth Banglani
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Provides-Extra: viz
+Requires-Dist: pygame<3,>=2.5; extra == "viz"
+
 # Project EXODUS
 
 Project EXODUS is a Python civilisation simulation engine that models procedurally generated galaxies, star systems, planets, species, factions, wars, alliances, collapse, and technological progress.
@@ -26,8 +36,6 @@ Useful CLI examples:
 exodus --turns 20 --seed 42 --galaxies 3
 exodus --star-systems-min 3 --star-systems-max 6 --planets-min 2 --planets-max 7
 exodus --factions-min 2 --factions-max 4 --events 20
-exodus --turns 40 --all-events
-exodus --turns 40 --all-events --output report.txt
 ```
 
 To run the pygame visualizer:

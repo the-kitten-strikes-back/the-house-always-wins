@@ -39,3 +39,13 @@ class SimulationState:
                 if species.name == name:
                     return species
         return None
+
+    def unique_faction_name(self, base_name: str) -> str:
+        existing_names = {faction.name for faction in self.iter_factions()}
+        if base_name not in existing_names:
+            return base_name
+
+        index = 2
+        while f"{base_name} {index}" in existing_names:
+            index += 1
+        return f"{base_name} {index}"

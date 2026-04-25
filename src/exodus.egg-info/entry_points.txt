@@ -1,0 +1,3 @@
+[console_scripts]
+exodus = exodus.cli:main
+exodus-viz = exodus.visualization.app:main

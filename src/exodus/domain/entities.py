@@ -93,6 +93,7 @@ class Conflict:
     theatre: str
     intensity: float
     turn_started: int
+    turn_resolved: int | None = None
     casualties: int = 0
     devastation: float = 0.0
     resolved: bool = False

@@ -15,7 +15,7 @@ class LifecycleSystem(SimulationSystem):
         for faction in list(factions):
             schism_pressure = (1 - faction.cohesion) + (1 - faction.stability) + (1 - faction.morale)
             if faction.population > 8_000_000 and schism_pressure < 0.95 and faction.technology.level >= 2:
-                splinter_name = f"{faction.name} Frontier"
+                splinter_name = state.unique_faction_name(f"{faction.name} Frontier")
                 if any(existing.name == splinter_name for existing in factions):
                     continue
                 factions.append(

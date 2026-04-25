@@ -16,9 +16,12 @@ class ExpansionSystem(SimulationSystem):
                 continue
             targets = [planet for planet in planets if not planet.factions and planet is not source]
             if not targets:
-                return
+                break
 
             for faction in list(source.factions):
+                if not targets:
+                    break
+
                 expansion_capacity = (
                     faction.logistics
                     + faction.technology.fields["propulsion"] * 0.08
@@ -32,7 +35,7 @@ class ExpansionSystem(SimulationSystem):
                     targets,
                     key=lambda planet: planet.habitability + planet.resources / 150 + planet.strategic_value * 0.3,
                 )
-                colony = _build_colony(faction, best_target.name)
+                colony = _build_colony(faction, best_target.name, state.unique_faction_name(f"{faction.name} Colony"))
                 species = state.get_species(faction.species_name)
                 if species is not None and not any(existing.name == species.name for existing in best_target.species):
                     best_target.species.append(species)
@@ -44,9 +47,9 @@ class ExpansionSystem(SimulationSystem):
                 targets.remove(best_target)
 
 
-def _build_colony(parent: Faction, target_world: str) -> Faction:
+def _build_colony(parent: Faction, target_world: str, colony_name: str) -> Faction:
     return Faction(
-        name=f"{parent.name} Colony",
+        name=colony_name,
         species_name=parent.species_name,
         homeworld=target_world,
         ideology=parent.ideology,

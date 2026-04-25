@@ -26,6 +26,7 @@ class DiplomacySystem(SimulationSystem):
                 state.record(f"The alliance between {left.name} and {right.name} fractured.")
 
         for left, right in combinations(factions, 2):
+            rivalry_pressure = _rivalry_pressure(left, right)
             affinity = (
                 (left.diplomacy + right.diplomacy) / 2
                 + (left.cohesion + right.cohesion) * 0.08
@@ -33,12 +34,21 @@ class DiplomacySystem(SimulationSystem):
             )
             espionage_friction = abs(left.espionage - right.espionage) * 0.05
             resource_envy = abs(left.economy - right.economy) * 0.05
+            militarism = _militarism(left, right)
             trust = left.relations.get(right.name, affinity)
-            trust = _bounded(trust + affinity * 0.03 - espionage_friction - resource_envy)
+            trust = _bounded(
+                trust
+                + affinity * 0.018
+                - espionage_friction
+                - resource_envy
+                - rivalry_pressure
+                - militarism * 0.02
+                - 0.004
+            )
             left.relations[right.name] = trust
             right.relations[left.name] = trust
 
-            if trust >= 0.8 and not _allied(state, left.name, right.name):
+            if trust >= 0.84 and not _allied(state, left.name, right.name):
                 purpose = _choose_alliance_purpose(left, right)
                 state.alliances.append(Alliance(members=(left.name, right.name), trust=trust, purpose=purpose))
                 state.record(f"{left.name} and {right.name} formed a {purpose} alliance.")
@@ -55,6 +65,23 @@ def _choose_alliance_purpose(left, right) -> str:
     if left.economy + right.economy > left.military_power + right.military_power:
         return "trade"
     return "security"
+
+
+def _militarism(left, right) -> float:
+    score = 0.0
+    if left.ideology in {"Militarist", "Expansionist"}:
+        score += 0.5
+    if right.ideology in {"Militarist", "Expansionist"}:
+        score += 0.5
+    return score
+
+
+def _rivalry_pressure(left, right) -> float:
+    return (
+        abs(left.military_power - right.military_power) * 0.03
+        + abs(left.population - right.population) / max(left.population + right.population, 1) * 0.05
+        + abs(left.industrial_capacity - right.industrial_capacity) * 0.02
+    )
 
 
 def _bounded(value: float) -> float:
