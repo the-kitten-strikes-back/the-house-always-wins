@@ -48,7 +48,7 @@ class DiplomacySystem(SimulationSystem):
             left.relations[right.name] = trust
             right.relations[left.name] = trust
 
-            if trust >= 0.84 and not _allied(state, left.name, right.name):
+            if trust >= 0.72 and not _allied(state, left.name, right.name):
                 purpose = _choose_alliance_purpose(left, right)
                 state.alliances.append(Alliance(members=(left.name, right.name), trust=trust, purpose=purpose))
                 state.record(f"{left.name} and {right.name} formed a {purpose} alliance.")
