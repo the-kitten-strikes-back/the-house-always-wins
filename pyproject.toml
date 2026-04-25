@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Civilisation simulation engine for galaxies, factions, wars, and technology evolution."
 readme = "README.md"
 requires-python = ">=3.11"
-authors = [{ name = "Sidharth" }]
+authors = [{ name = "Sidharth Banglani" }]
 dependencies = []
 
 [project.scripts]

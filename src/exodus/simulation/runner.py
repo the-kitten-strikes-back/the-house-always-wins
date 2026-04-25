@@ -5,7 +5,9 @@ from dataclasses import dataclass, field
 from exodus.domain.factories import build_generated_state
 from exodus.domain.state import SimulationState
 from exodus.engine.diplomacy import DiplomacySystem
+from exodus.engine.ecology import EcologySystem
 from exodus.engine.economy import EconomySystem
+from exodus.engine.expansion import ExpansionSystem
 from exodus.engine.lifecycle import LifecycleSystem
 from exodus.engine.technology import TechnologySystem
 from exodus.engine.warfare import WarfareSystem
@@ -28,9 +30,11 @@ class SimulationRunner:
             faction_range=config.faction_range,
         )
         systems = [
+            EcologySystem(),
             EconomySystem(),
             TechnologySystem(),
             DiplomacySystem(),
+            ExpansionSystem(),
             WarfareSystem(),
             LifecycleSystem(),
         ]

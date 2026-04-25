@@ -36,6 +36,12 @@ class SimulationRunnerTest(unittest.TestCase):
         self.assertTrue(
             any(planet.factions for galaxy in left.galaxies for system in galaxy.star_systems for planet in system.planets)
         )
+        first_planet = next(iter(left.iter_planets()))
+        first_faction = next(iter(left.iter_factions()))
+        self.assertTrue(first_planet.biome)
+        self.assertGreater(first_planet.carrying_capacity, 0)
+        self.assertTrue(first_faction.ideology)
+        self.assertIn(first_faction.research_focus, {"propulsion", "warfare", "biology", "computing", "materials", "energy"})
 
 
 if __name__ == "__main__":
