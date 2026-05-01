@@ -27,4 +27,5 @@ src/exodus/simulation/report.py
 src/exodus/simulation/runner.py
 src/exodus/visualization/__init__.py
 src/exodus/visualization/app.py
+src/exodus/visualization/casino.py
 tests/test_runner.py

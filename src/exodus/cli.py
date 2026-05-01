@@ -22,6 +22,15 @@ def main() -> None:
 
     _validate_ranges(config)
 
+    if args.casino:
+        from .visualization.casino import run_casino
+
+        run_casino(
+            config=config,
+            window_size=(args.width, args.height),
+        )
+        return
+
     if args.viz:
         from .visualization.app import run_visualizer
 
@@ -43,6 +52,7 @@ def _build_parser() -> argparse.ArgumentParser:
     defaults = SimulationConfig.default()
     parser = argparse.ArgumentParser(description="Run the EXODUS civilisation simulation.")
     parser.add_argument("--viz", action="store_true", help="Launch the pygame visualization instead of text mode.")
+    parser.add_argument("--casino", action="store_true", help="Launch the pygame casino betting game instead of text mode.")
     parser.add_argument("--turns", type=int, default=5, help="Number of turns to simulate in text mode.")
     parser.add_argument("--events", type=int, default=10, help="Number of recent events to include in text reports.")
     parser.add_argument("--all-events", action="store_true", help="Print the full event log in the final text report.")

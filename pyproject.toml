@@ -17,6 +17,7 @@ viz = ["pygame>=2.5,<3"]
 [project.scripts]
 exodus = "exodus.cli:main"
 exodus-viz = "exodus.visualization.app:main"
+exodus-casino = "exodus.visualization.casino:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

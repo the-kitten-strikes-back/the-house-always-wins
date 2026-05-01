@@ -1,3 +1,4 @@
 [console_scripts]
 exodus = exodus.cli:main
+exodus-casino = exodus.visualization.casino:main
 exodus-viz = exodus.visualization.app:main

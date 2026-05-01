@@ -37,6 +37,24 @@ pip install -e .[viz]
 exodus --viz --speed 2.0 --width 1600 --height 1000
 ```
 
+To run the pygame casino betting game:
+
+```bash
+pip install -e .[viz]
+exodus --casino --width 1440 --height 900
+```
+
+If you want to run directly from the source tree without relying on the installed console scripts, prefix commands with `PYTHONPATH=src`:
+
+```bash
+PYTHONPATH=src python3 -m exodus.cli
+PYTHONPATH=src python3 -m exodus.cli --viz --speed 2.0
+PYTHONPATH=src python3 -m exodus.cli --casino --width 1440 --height 900
+PYTHONPATH=src python3 -m unittest discover -s tests
+```
+
+Casino markets let players bet on the dominant faction, the most prominent ideology, planets destroyed during the next spin, and trade or war outcomes between faction pairs.
+
 ## Next extension points
 
 - Tune the procedural generation tables for stronger lore variety.
